@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author simse
+ *
+ */
+module BuilderPattern {
+}
